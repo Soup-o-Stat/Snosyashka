@@ -61,4 +61,4 @@ Each number in the menu corresponds to a specific complaint type:
 
 This tool is intended for **educational purposes** only. Misuse of this script to send false reports or for harassment may be against legal and ethical guidelines. Use responsibly.
 
-### The bad guys should get punished!
+# The bad guys should get punished!
