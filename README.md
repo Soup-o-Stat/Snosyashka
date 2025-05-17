@@ -8,7 +8,7 @@ A Python script for automatically sending email complaints to Telegram support a
 - Sends emails from a list of predefined sender accounts to a list of Telegram-related recipient addresses.
 - Randomized complaint templates for each type.
 - Colorful terminal interface with mode selection.
-- BTC donation option for the developer.
+- BTC donation option for the developer (for me).
 
 ## Requirements
 
@@ -59,6 +59,6 @@ Each number in the menu corresponds to a specific complaint type:
 
 ## Disclaimer
 
-This tool is intended for **educational purposes** only. Misuse of this script to send false reports or for harassment may be against legal and ethical guidelines. Use responsibly.**I am not responsible for your actions.** If you're going to use this program for evil, then you're a complete fucker.
+This tool is intended for **educational purposes** only. Misuse of this script to send false reports or for harassment may be against legal and ethical guidelines. Use responsibly. **I am not responsible for your actions.** If you're going to use this program for evil, then you're a complete fucker.
 
 # The bad guys should get punished!
