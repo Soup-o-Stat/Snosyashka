@@ -59,6 +59,6 @@ Each number in the menu corresponds to a specific complaint type:
 
 ## Disclaimer
 
-This tool is intended for **educational purposes** only. Misuse of this script to send false reports or for harassment may be against legal and ethical guidelines. Use responsibly.**I am not responsible for your fucking actions.**
+This tool is intended for **educational purposes** only. Misuse of this script to send false reports or for harassment may be against legal and ethical guidelines. Use responsibly.**I am not responsible for your actions.** If you're going to use this program for evil, then you're a complete fucker.
 
 # The bad guys should get punished!
