@@ -1,6 +1,8 @@
 # Snosyashka :3
 A Python script for automatically sending email complaints to Telegram support about abusive users, groups, or channels.
 
+**Due to Telegram's new policy, it is now IMPOSSIBLE to delete your account! The most you can do is freeze it**
+
 ## Features
 
 - Automatically generates and sends complaint emails to Telegram abuse addresses.
